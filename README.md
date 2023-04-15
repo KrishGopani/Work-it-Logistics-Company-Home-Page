@@ -1,6 +1,3 @@
 # Work-it-Logistics-Company-Home-Page
+Made this Website using Bootstrap
 
-Languages use
-1.Html
-2.CSS(BootStrap FrameWork)
-3.JavaScript
